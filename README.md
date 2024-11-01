@@ -5,7 +5,7 @@
 
 ## github repository 소개
 
-- javatest: `Java` 자바 기본기. 자바 코딩 테스트를 위해 기본 자바 연습.
+- [javatest](https://github.com/mutjung0/javatest): `Java` 자바 기본기. 자바 코딩 테스트를 위해 기본 자바 연습.
 
 <!--
 - [이력서](이력서.md)
